@@ -9,7 +9,7 @@ A framework for launching new Django Rest Framework projects quickly. Comes with
 * Token-based auth
 * Signup/login/logout
 * [django-allauth](https://github.com/pennersr/django-allauth) for easy social auth
-* [Pipenv](https://github.com/pypa/pipenv) for virtualenvs or Create venv
+* Create venv
 
 ## First-time setup
 
