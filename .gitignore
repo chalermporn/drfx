@@ -1,0 +1,7 @@
+notes.md
+.vscode
+venv
+db.sqlite3
+Pipfile
+Pipfile.lock
+setup.md
